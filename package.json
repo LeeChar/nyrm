@@ -1,13 +1,12 @@
 {
   "name": "nyrm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yarn registry managemer",
-  "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "bin": {
-    "nyrm": "./index.js"
+    "nyrm": "./bin/index"
   },
   "repository": {
     "type": "git",
