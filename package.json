@@ -1,0 +1,31 @@
+{
+  "name": "nyrm",
+  "version": "1.0.0",
+  "description": "yarn registry managemer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "nyrm": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeChar/nyrm.git"
+  },
+  "keywords": [
+    "yarn",
+    "nrm"
+  ],
+  "author": "leechar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeChar/nyrm/issues"
+  },
+  "homepage": "https://github.com/LeeChar/nyrm#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "terminal-table": "0.0.12"
+  }
+}
